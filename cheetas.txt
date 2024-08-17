@@ -1,6 +1,6 @@
 team: Cheetas
 
-manager: Dooli
+manager: Lupi
 
 members:
 - Ryan
