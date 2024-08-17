@@ -1,9 +1,8 @@
 team: Tigers
 
-manager: John
+manager: Player
 
 members:
 - Linda
 - William
 - David
-- Evie
