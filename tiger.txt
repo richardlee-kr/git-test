@@ -1,7 +1,7 @@
 team: Tigers
 
 manager: Player
-#This is Pull Request
+#This is PR
 
 members:
 - Linda
